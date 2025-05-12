@@ -163,8 +163,8 @@ This project successfully dissects LinkedIn's functionality and designs a schema
 
 
 ## 📬 Contact
-📩 **Email:** [abhityagi4733@gmail.com](mailto:anshulofficial1111@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/abhishektyagi02](https://www.linkedin.com/in/anshul-analytics/)  
+📩 **Email:** [anshulofficial1111@gmail.com](mailto:anshulofficial1111@gmail.com)  
+🔗 **LinkedIn:** [linkedin.com/in/anshul-analytics/](https://www.linkedin.com/in/anshul-analytics/)  
  
 
 
