@@ -155,7 +155,7 @@ The **Entity-Relationship (ER) Diagram** visually represents the schema design, 
 ---
 
 ## **Conclusion**  
-This project successfully dissects LinkedIn's functionality and designs a schema that captures its core data architecture. By focusing on key entities, attributes, and relationships, this case study provides valuable insights into how data modeling drives LinkedIn's effectiveness in professional networking, career development, and knowledge sharing.  
+This project successfully dissects LinkedIn's functionality and designs a schema that captures its core data architecture. By focusing on key entities, attributes, and relationships, this case study provides valuable insights into how data modelling drives LinkedIn's effectiveness in professional networking, career development, and knowledge sharing.  
 
 🔥 **Star this repo if you find the project useful!** 🚀  
 
